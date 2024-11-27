@@ -2,7 +2,7 @@
 Contributors: crmperks, sbazzi, asif876
 Tags: contact form 7 Constant Contact, WPForms constant contact, elementor forms constant contact integration, ninja forms Constant Contact
 Requires at least: 3.8
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.6
 Version: 1.1.6
 Requires PHP: 5.3
